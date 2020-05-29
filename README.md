@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages, here i write about my Learning Path in Artificial Intelligence, Data Science and Machine Learning
 
 You can use the [editor on GitHub](https://github.com/jeffersonscampos/Artificial-Intelligence_Data-Science_Machine-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
